@@ -21,4 +21,4 @@ Bookshelf
     * [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) - Jocko Willink
     
   * December
-    * [Way of the Warrior Kid](https://www.amazon.com/Way-Warrior-Kid-Wimpy-Novel/dp/1250158613)
+    * [Way of the Warrior Kid](https://www.amazon.com/Way-Warrior-Kid-Wimpy-Novel/dp/1250158613) - Jocko Willink
