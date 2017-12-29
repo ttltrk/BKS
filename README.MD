@@ -2,7 +2,7 @@
 Bookshelf
 ======
 
-[<<<](https://github.com/ttltrk/0con)
+[<<<](https://github.com/ttltrk/0con/blob/master/0con/README.MD)
 
 ### 2017
 
