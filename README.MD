@@ -4,6 +4,11 @@ Bookshelf
 
 [<<<](https://github.com/ttltrk/0con/blob/master/0con/README.MD)
 
+### 2018
+
+  * JAN
+    * [Lifelong Learning](https://books.google.sk/books/about/Lifelong_Learning.html?id=hgjRsgEACAAJ&redir_esc=y) - Don McMinn
+
 ### 2017
 
   * August
