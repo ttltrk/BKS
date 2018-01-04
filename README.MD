@@ -4,12 +4,12 @@ myBookshelf
 
 [<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
 
-### 2018
+### 2018 (1)
 
   * JAN
     * [Lifelong Learning](https://books.google.sk/books/about/Lifelong_Learning.html?id=hgjRsgEACAAJ&redir_esc=y) - Don McMinn
 
-### 2017
+### 2017 (9)
 
   * AUG
     * [Emberi matek](https://www.libri.hu/konyv/mero_laszlo.emberi-matek.html) - Mérő László
