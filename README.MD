@@ -8,9 +8,10 @@ goal for 2018: 1 book / week
 
 actual status: 1/1
 
-### 2018 - (1)
+### 2018 - (2)
 
   * JAN
+    * [Habit Stacking](https://www.amazon.com/Habit-Stacking-Changes-Improve-Happiness-ebook/dp/B06XP2B5QC)
     * [Lifelong Learning](https://books.google.sk/books/about/Lifelong_Learning.html?id=hgjRsgEACAAJ&redir_esc=y) - Don McMinn
 
 ### 2017 - (9)
