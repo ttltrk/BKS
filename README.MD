@@ -4,10 +4,6 @@ myBookshelf
 
 [<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
 
-goal for 2018: 1 book / week
-
-actual status: 1/1
-
 ### 2018 - (2)
 
   * JAN
