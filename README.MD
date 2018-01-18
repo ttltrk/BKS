@@ -4,7 +4,7 @@ myBookshelf
 
 [<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
 
-### 2018 - (2)
+### 2018 - (3)
 
   * JAN
     * [Babilon leggazdagabb embere](https://www.libri.hu/konyv/george_s_clason.babilon-leggazdagabb-embere.html) - George S. Clason
