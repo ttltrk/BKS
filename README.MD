@@ -7,6 +7,7 @@ myBookshelf
 ### 2018 - (2)
 
   * JAN
+    * [Babilon leggazdagabb embere](https://www.libri.hu/konyv/george_s_clason.babilon-leggazdagabb-embere.html) - George S. Clason
     * [Habit Stacking](https://www.amazon.com/Habit-Stacking-Changes-Improve-Happiness-ebook/dp/B06XP2B5QC) - S.J. Scott
     * [Lifelong Learning](https://books.google.sk/books/about/Lifelong_Learning.html?id=hgjRsgEACAAJ&redir_esc=y) - Don McMinn
 
