@@ -6,6 +6,11 @@ myBookshelf
 
 ### 2018 - (3)
 
+  * MRC  
+    * [Magad, uram](https://www.libri.hu/konyv/fa_nandor.magad-uram.html) - Fa Nándor
+
+  * FEB
+
   * JAN
     * [Babilon leggazdagabb embere](https://www.libri.hu/konyv/george_s_clason.babilon-leggazdagabb-embere.html) - George S. Clason
     * [Habit Stacking](https://www.amazon.com/Habit-Stacking-Changes-Improve-Happiness-ebook/dp/B06XP2B5QC) - S.J. Scott
