@@ -1,8 +1,13 @@
 
-myBookshelf
-======
+---
+
+### .bks.
+
+---
 
 [<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
+
+---
 
 ### 2018 - (3)
 
@@ -36,3 +41,5 @@ myBookshelf
     
   * DEC
     * [Way of the Warrior Kid](https://www.amazon.com/Way-Warrior-Kid-Wimpy-Novel/dp/1250158613) - Jocko Willink
+    
+---
