@@ -1,7 +1,7 @@
 
 ---
 
-### .bks.
+### .bs.
 
 ---
 
@@ -9,7 +9,7 @@
 
 ---
 
-### 2018 - (3)
+### 2018 - (4)
 
   * MRC  
     * [Magad, uram](https://www.libri.hu/konyv/fa_nandor.magad-uram.html) - Fa Nándor
