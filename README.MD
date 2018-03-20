@@ -1,11 +1,7 @@
 
 ---
 
-### .bs.
-
----
-
-[<<<](https://github.com/ttltrk/0con/blob/master/README.MD)
+### [改善](https://github.com/ttltrk/0C/blob/master/README.MD) - .bs.
 
 ---
 
