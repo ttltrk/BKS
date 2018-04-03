@@ -11,9 +11,12 @@
 
 ### 2018 - (4)
 
-  * MRC  
+  * APR  
     * [Magad, uram](https://www.libri.hu/konyv/fa_nandor.magad-uram.html) - Fa Nándor
 
+  * MRC
+    * [Kaizen - Változz félelem nélkül!](https://www.libri.hu/konyv/robert_maurer.kaizen.html) - Robert Maurer
+    
   * FEB
 
   * JAN
