@@ -9,7 +9,7 @@
 
 ---
 
-### 2018 - (4)
+### 2018 - (6 = E: 2, H: 3, S: 1)
 
   * APR  
     * [Magad, uram](https://www.libri.hu/konyv/fa_nandor.magad-uram.html) - Fa Nándor
@@ -18,7 +18,8 @@
     * [Kaizen - Változz félelem nélkül!](https://www.libri.hu/konyv/robert_maurer.kaizen.html) - Robert Maurer
     
   * FEB
-
+    * [Odborná spôsobilosť pre zbrojný preukaz](https://www.martinus.sk/?uItem=174959) - Jozef Majoroš Renáta Majorošová
+    
   * JAN
     * [Babilon leggazdagabb embere](https://www.libri.hu/konyv/george_s_clason.babilon-leggazdagabb-embere.html) - George S. Clason
     * [Habit Stacking](https://www.amazon.com/Habit-Stacking-Changes-Improve-Happiness-ebook/dp/B06XP2B5QC) - S.J. Scott
